@@ -1,0 +1,29 @@
+.img {background: url(imagee.jpg);
+      width:100%;height: 100%;
+      background-position: <position>;
+      background-size: cover;
+  background-repeat: no-repeat;}
+.p  {  font-family:ariel; 
+       color:blue ;
+       text-align: center}
+
+.form1 { padding: 50px 20px;
+         padding-top: 10px;
+         padding-bottom: 40px;
+         margin: 50px;
+         border: 5px solid blue;
+         border-radius: 5px;
+         background-color: transparent;}
+
+.page { border: 3px solid blue;
+        border-radius: 3px;
+        padding: 7px 5px;
+        background-color: whitesmoke;}
+
+input:hover { background-color: aqua}
+
+.submit { color: aliceblue; 
+          background-color: black ;
+          border:1px solid blue;
+          padding: 5px 10px;
+          border-radius: 3px;float: right}
